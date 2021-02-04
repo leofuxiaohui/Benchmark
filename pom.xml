@@ -18,6 +18,12 @@
 		</developer>
 	</developers>
 
+	<properties>
+  		<sonar.projectKey>leofuxiaohui_Benchmark</sonar.projectKey>
+  		<sonar.organization>leofuxiaohui</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
+	
 	<licenses>
 		<license>
 			<name>GNU General Public License, version 2 (GPL2)</name>
